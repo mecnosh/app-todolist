@@ -62,4 +62,4 @@ Para o teclado não ficar por cima da input de adicionar tarefa, foi usa uma bib
 
 ##### Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo -aqui- para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE MIT](https://github.com/mecnosh/app-todolist/blob/master/LICENSE) para obter detalhes
